@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NumberToText:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NumberToText_jar</output-path>
+    <root id="archive" name="NumberToText.jar">
+      <element id="module-output" name="NumberToText" />
+    </root>
+  </artifact>
+</component>
